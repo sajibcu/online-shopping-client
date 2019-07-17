@@ -1,0 +1,14 @@
+@import 'src/@fuse/scss/fuse';
+
+fuse-navigation {
+    display: flex;
+    flex: 1 0 auto;
+
+    > .nav {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        background-color : #098a29e8 !important;
+        text-align: center;
+    }
+}
